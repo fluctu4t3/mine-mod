@@ -1,0 +1,8 @@
+modLoader="javafml"
+loaderVersion="[34,)"
+license="MIT"
+[[mods]]
+modId="teammod"
+version="1.0"
+displayName="Team Mod"
+description="A mod to manage teams and scores in Minecraft."
