@@ -1,0 +1,8 @@
+{
+    "teammod.team_created": "Team {0} created!",
+    "teammod.team_already_exists": "Team {0} already exists!",
+    "teammod.team_added": "Added {0} to team {1}",
+    "teammod.team_does_not_exist": "Team {0} does not exist!",
+    "teammod.team_score": "Team {0} has a score of: {1}",
+    "teammod.team_gained_point": "Team {0} gained a point!"
+}
